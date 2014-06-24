@@ -21,7 +21,7 @@ It creates a .docx with a table which contains the different hosts scanned and t
 '''
 
 __author__ = "v4lproik"
-__date__ = "27/04/2013"
+__date__ = "24/06/2014"
 __version__ = "1.0"
 __maintainer__ = "v4lproik"
 __email__ = "v4lproik@gmail.com"
@@ -253,7 +253,7 @@ if __name__ == '__main__':
 	data = main(f)
 	report()
 
-	
+
 	sys.exit(0)
 	#except:
 		#print traceback.format_exc()
